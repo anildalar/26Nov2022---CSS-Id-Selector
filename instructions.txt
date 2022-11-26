@@ -1,0 +1,34 @@
+HTML = HyperText Markup Language
+CSS  = Cascading Style Sheet
+
+
+HTML = Structure
+HTML  1,2,3,4,5
+
+CSS  =  Design
+
+CSS 1,2,3
+
+CSS3
+
+
+Where we can write the CSS Code ?
+
+3 Locations
+1. inside Head tag
+
+
+<style>
+				selector{
+							property:value;
+				}
+				p{
+							color:red;
+				}
+</style>
+
+Tag = Element
+
+CSS Selector
+
+1. Element/Tag Selector
